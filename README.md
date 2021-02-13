@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mnismayilli
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Python libraries in data analysis
+- 💞️ I’m looking to collaborate on economics and finance projects 
+- 📫 You can contact me via email mnismayilli@outlook.com 
