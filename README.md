@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehman Ismayilli, aka Max.
 - 🎓 I am a final year PhD candidate in Economics. My research interests are industrial organisation 〄, economic theory 📑, and behavioural and experimental economics 🧫.
-- 👀 I’m interested in data analysis, experimental economics & machine learning
+- 👀 I’m interested in data analysis, experimental economics, machine learning & AI
 - 🌱 I’m developing my #Python and #R skills. 
-- 💞️ I’m looking to collaborate on economics projects in IO and experimental economics. 
+- 💞️ I’m looking to collaborate on economics projects in IO, experimental economics, and AI. 
 - 📫 You can contact me via email mnismayilli@outlook.com or mi156@le.ac.uk.
