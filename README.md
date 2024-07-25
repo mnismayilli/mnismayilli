@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehman Ismayilli, aka Max.
-- 🎓 I am a final year PhD candidate in Economics. My research interests are *industrial organisation* 〄, *economic theory* 📑, and *behavioural and experimental economics* 🧫.
+- 🎓 I work at the University of Warwick Department of Economics. My research interests are *industrial organisation* 〄, *economic theory* 📑, and *behavioural and experimental economics* 🧫.
 - 👀 I’m interested in data analysis, experimental economics, machine learning & AI
 - 🌱 I’m developing my #Python and #R skills. 
-- 📫 You can contact me via email mnismayilli@outlook.com
+- 📫 You can contact me via email at mnismayilli@outlook.com.
