@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehman Ismayilli, aka Max.
-- 🎓 I work at the University of Warwick Department of Economics. My research interests are *industrial organisation* 〄, *economic theory* 📑, and *behavioural and experimental economics* 🧫.
-- 👀 I’m interested in data analysis, experimental economics, machine learning & AI
-- 🌱 I’m developing my #Python and #R skills. 
+- 🎓 I work at the University of Oxford Department of Economics. My research interests are *industrial organisation* 〄, *economic theory* 📑, and *behavioural and experimental economics* 🧫.
+- 👀 I’m interested in any research projects in empirical industrial organisation, experimental economics, machine learning & AI.
+- 🌱 Presenting some of my #Python and #R skills here via sample files.  
 - 📫 You can contact me via email at mnismayilli@outlook.com.
